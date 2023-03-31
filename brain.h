@@ -1,0 +1,1 @@
+enum layers { _DEFAULT, _NUMBER, _SYMBOL, _LAYERS, _FUNCTION, _GAMES};
